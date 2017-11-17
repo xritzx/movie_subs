@@ -1,3 +1,7 @@
+This was a project I was supposed to work on. We had an coding exhibition and came up with the idea of creating a subtitle downloader, because its precise problem statement and small code size made it suitable to be written in the time we had before the show. But unfortunately I couldn't work on it. My superfast friend did all that was to be done, I took occasional opportunity and patted him on back. I hope to add full (and easy) Windows compatibility to this project (which I don't know how) soon, with an optional GUI interface.
+
+(README from the original repo as follows)
+
 # movie_subs
 **Download movie subtitles from subscene**
 
